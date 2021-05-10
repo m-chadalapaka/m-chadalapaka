@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madhuri Chadalapaka
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently working on ReactJS
 - 💞️ I’m looking to collaborate on reactjs projects
 - 📫 How to reach me ... https://www.linkedin.com/in/madhuri-chadalapaka/
 
